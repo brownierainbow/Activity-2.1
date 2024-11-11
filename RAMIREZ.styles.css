@@ -111,6 +111,7 @@ h2{
 }
 
 /* ----- IMAGES ----- */
+
 img{
     display: block;
     max-width: 100%;
@@ -119,6 +120,7 @@ img{
 
 /* ----- ANIMATED ICON ----- */
 /* Icon and animation code from https://typogram.github.io/Anicons/ */
+
 .icon{
     font-family: "Anicons Regular";
     font-size: 2em;
